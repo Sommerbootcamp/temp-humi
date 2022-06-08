@@ -46,3 +46,4 @@ Luftfeutigkeit
 
 - Zeige die gemessene Temperatur zentriert auf dem OLED
 - Lass die gemessene Luftfeutigkeit horizontal durch das OLED laufen
+- In der Beispielimplementierung war der Fehlerteufel am Werk, finde die Fehler und überarbeite den Code
