@@ -4,6 +4,7 @@
 - Arduino IDE
 - ESP8266 Platform im Boardmanager hinzufügen
 - DHT Sensor Library by Adafruit im Bibliotheksmanager hinzufügen
+- Adafruit SSD1306 OLED Driver Lib im Bibliotheksmanager hinzufügen
 
 ## Temperatur und Feutigkeit messen
 
